@@ -26,5 +26,5 @@
 ## Stats
 ![Anastasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastasia-yildirim&show_icons=true&bg_color=D3E2FD&title_color=182D71&text_color=182D71&icon_color=B07219)
 
-## Контакт 
+## Keep in touch 
 <img src="icons/telegram.png" title="Telegram" alt="Telegram" width="15" height="15"/> [@anastasiayildirim](https://t.me/anastasiayildirim)
